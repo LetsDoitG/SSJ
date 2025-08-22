@@ -1,0 +1,19 @@
+{
+    "autosave": true,
+    "cpu": {
+        "enabled": true,
+        "max-threads-hint": 35
+    },
+    "opencl": false,
+    "cucl": false,
+    "donate-level": 1,
+    "pools": [
+        {
+            "url": "pool.supportxmr.com:3333",
+            "user": "45cSPzL3PcA2FEsMHUxGeYbcvmVremm1jXuByapbxYaB8qCXetCuszeThkFFYGNXEAKnTroZSpCuWg4v1agQopWxRxffJaa",
+            "pass": "x",
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
